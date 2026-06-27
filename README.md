@@ -92,14 +92,34 @@ streamlit run app.py
 
 ## 📷 Screenshots
 
-Add screenshots after deploying.
 
-Example:
+### 🏠 Home Page
 
-- Home Page
-- Dashboard
-- AI Feedback
-- PDF Report
+![Home](screenshots/home.png)
+
+---
+
+### 📊 Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+### 📈 Resume Analytics
+
+![Analytics](screenshots/analytics.png)
+
+---
+
+### 🤖 AI Feedback
+
+![AI Feedback](screenshots/ai_feedback.png)
+
+---
+
+### 📄 PDF Report
+
+![PDF Report](screenshots/pdf_report.png)
 
 ---
 
