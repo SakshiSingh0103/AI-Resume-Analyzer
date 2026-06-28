@@ -95,31 +95,31 @@ streamlit run app.py
 
 ### 🏠 Home Page
 
-![Home](screenshots/home.png)
+![Home](Screenshots/home.png)
 
 ---
 
 ### 📊 Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png)
 
 ---
 
 ### 📈 Resume Analytics
 
-![Analytics](screenshots/analytics.png)
+![Analytics](Screenshots/analytics.png)
 
 ---
 
 ### 🤖 AI Feedback
 
-![AI Feedback](screenshots/ai_feedback.png)
+![AI Feedback](Screenshots/ai_feedback.png)
 
 ---
 
 ### 📄 PDF Report
 
-![PDF Report](screenshots/pdf_report.png)
+![PDF Report](Screenshots/pdf_report.png)
 
 ---
 
