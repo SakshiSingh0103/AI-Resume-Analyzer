@@ -122,6 +122,9 @@ streamlit run app.py
 ![PDF Report](Screenshots/pdf_report.png)
 
 ---
+## 🚀 Live Demo
+
+[🌐 Open AI Resume Analyzer](https://ai-resume-analyzer-gkw2quy4dabwburuwg6ngm.streamlit.app)
 
 ## 👩‍💻 Developed By
 
